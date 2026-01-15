@@ -21,3 +21,8 @@ HeidiSQL을 사용해서 MySQL을 공부하며
 ### 2026-01-16
 - GROUP BY / HAVING 실습
 - SELECT와 GROUP BY 차이 이해
+- GitHub 기본 사용 흐름 이해
+  - repository, commit, push 개념 정리
+  - 파일 수정/이름 변경도 커밋으로 기록됨
+  - README를 학습 기록 용도로 활용
+  - GitHub는 결과뿐 아니라 학습 과정을 남기는 도구라는 점 이해
