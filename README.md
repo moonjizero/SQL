@@ -12,7 +12,7 @@ HeidiSQL을 사용해서 MySQL을 공부하며
 - 실습 중심 학습
 - 하루 1커밋
 
-## Day 01
+## 2026-01-16
 
 - GROUP BY / HAVING 실습
 - SELECT와 GROUP BY 차이 이해
