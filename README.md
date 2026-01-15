@@ -20,6 +20,7 @@ HeidiSQL을 사용해서 MySQL을 공부하며
 
 ### 2026-01-16
 - GROUP BY / HAVING 실습
+  - 새롭게 배운 것: 집계 함수와 일반 컬럼을 같이 쓰려면 반드시 GROUP BY가 필요하다.
 - SELECT와 GROUP BY 차이 이해
 - GitHub 기본 사용 흐름 이해
   - repository, commit, push/pull 이해 완료
