@@ -19,7 +19,7 @@ HeidiSQL을 사용해서 MySQL을 공부하며
 ## Daily Log
 
 ### 2026-01-16
-- GROUP BY / HAVING 실습
+- GROUP BY, HAVING 실습
   - 새롭게 배운 것: 집계 함수와 일반 컬럼을 같이 쓰려면 반드시 GROUP BY가 필요하다.
 - SELECT와 GROUP BY 차이 이해
 - GitHub 기본 사용 흐름 이해
@@ -27,3 +27,8 @@ HeidiSQL을 사용해서 MySQL을 공부하며
   - 파일 수정/이름 변경도 커밋으로 기록됨을 알게 되었음
   - README를 학습 기록 용도로 활용하기로 방항 설정
   - GitHub는 결과뿐 아니라 학습 과정을 남기는 도구라는 점 이해함
+
+### 2026-01-28
+- IF/CASE, join에 대해 배우고 실습
+  - select *으로 먼저 전체 데이터를 확인한 후 다음에 분석 시작하기
+   
